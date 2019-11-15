@@ -1,0 +1,8 @@
+total 28
+-rwxrwxr-x 1 linux linux 7181 Sep 26 00:18 a.out
+-rw-rw-r-- 1 linux linux  290 Sep 25 20:41 enum.c
+-rw-rw-r-- 1 linux linux    8 Sep 26 00:13 file1
+-rw-rw-r-- 1 linux linux  169 Sep 25 23:50 rw.c
+-rw-rw-r-- 1 linux linux  167 Sep 26 00:18 union.c
+-rw-rw-r-- 1 linux linux  169 Sep 25 23:50 wr.c
+-rw-rw-r-- 1 linux linux    0 Sep 26 00:19 wrong
